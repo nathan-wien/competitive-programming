@@ -3,8 +3,12 @@
 !/**/
 !*.*
 
-# clang-format
+# clang
 .clang-format
+.clangd
+compile_commands.json
+debug.h
+
 
 # In case you want to include Makefile
 # !Makefile
